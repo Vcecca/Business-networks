@@ -6,7 +6,8 @@ This project is the result of my master's thesis which investigates the phenomen
 
 
 More updated and extended results of my master's thesis work are published in Jounal of Industrial and Business Economics with L. Correani & P. Morganti.
-citation:
+
+Citation:
 Valentina, C., Luca, C. & Patrizio, M. Heterogeneity and geographical location in Italian Business Networks. J. Ind. Bus. Econ. (2024). https://doi.org/10.1007/s40812-024-00303-6 
 
 Nota that:
